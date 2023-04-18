@@ -4344,7 +4344,7 @@ input[type="button"].btn-block {
     align-items: center;
     -ms-flex-pack: justify;
     justify-content: space-between;
-    background-image: url(../planning/board%20images/navbackground.png);
+    background-image: url(../images/navbackground.png);
     z-index: 100;
     width: 100%;
     height: 127px;
