@@ -6785,7 +6785,7 @@ button.bg-light:focus {
 }
 
 .bg-dark {
-    background-color: #238775 !important;
+    background-image: url(../images/navbackground.png);
 }
 
 a.bg-dark:hover, a.bg-dark:focus,
